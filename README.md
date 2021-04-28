@@ -1,4 +1,4 @@
-👋 Hi, I’m @petersoncabrini.
+👋 Hi, I’m Peterson
 
 I'm a military firefighter, but I've always liked the idea of programming, and I'm working hard to make it happen! 
 Currently learning a bit of front-end and back-end with javascript / html / css and node.js. 
